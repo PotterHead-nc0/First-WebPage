@@ -1,0 +1,24 @@
+body {
+    background-color: powderblue;
+}
+.hr {
+    margin: 0 auto;
+    border-style: none;
+    border-color: grey;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 6%;
+}
+img{
+    width: max(20vw,150px);
+}
+img:hover{
+    /*height: 240px;*/
+    background-color: skyblue;
+}
+h1{
+    color: #7A4069;
+}
+h3{
+    color: #7A4069;
+}
